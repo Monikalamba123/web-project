@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Photo Gallery</title>
+  <style>
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+
+    .gallery img {
+      border: 2px dotted red;
+      transition: border-color 0.3s;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .gallery img:hover {
+      border-color: #0f5d40;
+    }
+  </style>
+</head>
+<body>
+  <div class="gallery">
+   
+    <img src="https://img.freepik.com/free-photo/beautiful-shot-lake-with-surrounded-by-trees-sunset_181624-26620.jpg?w=1060&t=st=1687020760~exp=1687021360~hmac=e18a64debf15853696f39d4a34a669dcd0c5436094cad6fc1daec91c98b1c4a1" alt="Image 2">
+    <img src="https://img.freepik.com/free-photo/gorgeous-foggy-sunrise-carpathian-mountains-lovely-summer-landscape-volovets-district-purple-flowers-grassy-meadows-forested-hill-fog_661209-51.jpg?w=1060&t=st=1687020785~exp=1687021385~hmac=728eccd2e6523b3447fd9be6222b0680405352bcaadb32eb284aef8398d66bd7" alt="Image 3">
+
+    <img src="https://img.freepik.com/free-photo/cascade-boat-clean-china-natural-rural_1417-1356.jpg?w=1060&t=st=1687021015~exp=1687021615~hmac=d3e7c3080a6638047db0de21b4d13a17e8702333982dfe414575662cf5f8db06" alt="image 1">
+    <img src="https://as1.ftcdn.net/v2/jpg/02/39/40/24/1000_F_239402489_sehQe9Eaz0EmVe6vTTUn3gGgW0pDNpz6.jpg" alt="">
+
+     
+    
+  </div>
+</body>
+</html>
