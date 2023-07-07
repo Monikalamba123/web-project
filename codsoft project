@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style=" background-color:grey">
+  <h1 style ="color:rgb(225, 255, 0)"><b> Hey welcome to my page</b> </h1>
+  <p style="color:cadetblue"><font size="6"> <i><b>  Monika lamba</b></i></p></font>
+  <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qEMSsIlxu4YxSkmaa9O7BRy1a2yKBqTvneB9l5YWiPBM6vVlrodjqxAMqmJ_BR15cdIy2stTqBKoV90MUwaOf-sxCtVA=s1600" alt="sorry image not found"height="500px" weidth="100px" />
+<h4>I am monika lamba . currently i am pursuing btech and working on projects of web development alloted by<b><u> cod soft.</u></b> i am good to explore the things. </h4>
+<p style="color:red"<font size="5"><b> <u>SKILLS </u></b> </font></p>
+<ul>
+    <li>i have good communication skill</li>
+    <li>i have knowledge about different programming languages like:C,C++,JAVA,HTML etc</li>
+    <li>i also know about internet , MS excel , MS word etc</li>
+    <li>i am good to bear pressure</li>
+    <li>i am friendly with different type of environments</li>l
+</ul>
+<p style="color:rgb(0, 106, 255)""background-color:white"<u><font size="5"> LINKEDIN </u> </font></p>
+<style>
+    p{
+        background-color: white;
+    }
+</style>
+<br />
+<a href="https://ibb.co/RYRdyZ2"><img src="https://i.ibb.co/MZFQ6Wn/IMG-20230706-WA0018.jpg" alt="IMG-20230706-WA0018" border="0" height="350" weidth="200"></a>
+<br/>
+<a href="https://www.linkedin.com/in/monika-lamba-b84076252">go to my linkedin account</a>
+<p style="color:brown"><font size="4">MY RESUME </font></p>
+<a href="https://drive.google.com/file/d/1yPTMw46SvzMwjpuiAm88nj0lDqU7T-KI/view?usp=sharing">download my resume</a>
+<p style="color:brown"><font size="4">MY PROJECT</font></p>
+My first project in html is available on my github account.
+<a href="https://github.com/Monikalamba123/web-project?search=1">go to project</a>
+<br/>
+
+For any query feel free to contact me.
+<h4 style="color:aqua">mail on : lambamoni2003@gmail.com</h4>
+  <h4 style="color:aqua">contact no : 8930911608</h4>
+  <br/>
+  Any valuable feedback:
+  <textarea name="feedback" id="100" placeholder="please give your valuable feedback" rows="5" column="5">feedback</textarea>
+
+   
+<br/>
+<
+</body
+</html>
